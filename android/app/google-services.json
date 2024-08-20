@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992118464868",
+    "project_id": "summer-camp-c9b69",
+    "storage_bucket": "summer-camp-c9b69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992118464868:android:95b69f57de4179090fda71",
+        "android_client_info": {
+          "package_name": "com.example.summer_camp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgisPyn72IB4J4fSO1g98U6VrxDSSi1zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
